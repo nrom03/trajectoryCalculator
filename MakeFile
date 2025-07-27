@@ -1,0 +1,2 @@
+SOURCES = src/inputParser.cpp src/trajectoryCalculator.cpp src/main.cpp
+g++ -g -Wall -o main $(SOURCES)
